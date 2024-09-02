@@ -2578,12 +2578,12 @@
     },
     {
       "fullPath": "presets/4.3/test/defaults.txt",
-      "hash": "94d376ede1f006efb67463ee30b3b449495124c3fd71d2fe02545566357c3035",
+      "hash": "5189fd5396e1379e75c876892ec0b6b7a6a30601c9f621bcf2dd653b9a0ddcef",
       "title": "Default 4.3 LED settings",
       "firmware_version": [
         "4.3"
       ],
-      "category": "LEDS",
+      "category": "OTHER",
       "status": "OFFICIAL",
       "keywords": [
         "defaults",

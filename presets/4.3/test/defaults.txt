@@ -1,6 +1,6 @@
 #$ TITLE: Default 4.3 LED settings
 #$ FIRMWARE_VERSION: 4.3
-#$ CATEGORY: LEDS
+#$ CATEGORY: OTHER
 #$ STATUS: OFFICIAL
 #$ KEYWORDS: defaults, reset, leds
 #$ AUTHOR: BugsBunny
@@ -9,7 +9,6 @@
 
 # led designations
 
-led 0 0,0::C:0
 led 1 0,0::C:0
 led 2 0,0::C:0
 led 3 0,0::C:0
