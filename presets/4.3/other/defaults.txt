@@ -1,5 +1,5 @@
 #$ TITLE: Default 4.3 LED settings
-#$ FIRMWARE_VERSION: 4.3
+#$ FIRMWARE_VERSION: 4.3,4.5
 #$ CATEGORY: OTHER
 #$ STATUS: OFFICIAL
 #$ KEYWORDS: defaults, reset, leds

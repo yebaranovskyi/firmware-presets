@@ -137,6 +137,7 @@
       "3.5",
       "4.2",
       "4.3",
+      "4.3,4.5",
       "4.4",
       "4.5"
     ],
@@ -919,10 +920,10 @@
     },
     {
       "fullPath": "presets/4.3/other/defaults.txt",
-      "hash": "5189fd5396e1379e75c876892ec0b6b7a6a30601c9f621bcf2dd653b9a0ddcef",
+      "hash": "42dfe60d6d19a0ac6cf7614e9ebd10d72a859a72e7f5f02ecb5597c30aa34a5f",
       "title": "Default 4.3 LED settings",
       "firmware_version": [
-        "4.3"
+        "4.3,4.5"
       ],
       "category": "OTHER",
       "status": "OFFICIAL",
