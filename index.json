@@ -163,6 +163,7 @@
       "Betaflight",
       "BMSThomas",
       "Botgrinder",
+      "bugsbunny",
       "Chris Rosser",
       "ctzsnooze",
       "Daniel Appel / Tehllama",
@@ -6339,7 +6340,7 @@
     },
     {
       "fullPath": "presets/4.5/osd/sugark_hdzero_osd.txt",
-      "hash": "b5094a12c45603bb2fc270f9574b9d7266152ad3ec984cb15995c7bb75a5bc9a",
+      "hash": "ac386ba85f8308d5e70fe77f5ce2fbd092cdd5f648dcf83c14f76020941542a6",
       "title": "sugarK HDzero OSD1",
       "firmware_version": [
         "4.411",
@@ -6355,7 +6356,7 @@
         "sugarK",
         "racing"
       ],
-      "author": "sugarK",
+      "author": "bugsbunny",
       "priority": 0
     },
     {
