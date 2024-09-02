@@ -918,6 +918,23 @@
       "priority": 0
     },
     {
+      "fullPath": "presets/4.3/other/defaults.txt",
+      "hash": "5189fd5396e1379e75c876892ec0b6b7a6a30601c9f621bcf2dd653b9a0ddcef",
+      "title": "Default 4.3 LED settings",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "OTHER",
+      "status": "OFFICIAL",
+      "keywords": [
+        "defaults",
+        "reset",
+        "leds"
+      ],
+      "author": "BugsBunny",
+      "priority": 0
+    },
+    {
       "fullPath": "presets/4.3/other/ELRS_Passthrough.txt",
       "hash": "1314352dd602fa60a9d8737439b20b91ffdd2ab0a92a378e66a7367f15f7f758",
       "title": "ExpressLRS Passthrough Betaflight Settings",
@@ -2575,23 +2592,6 @@
       "author": "Ivan Efimov (Limon)",
       "force_options_review": true,
       "priority": 10000000000
-    },
-    {
-      "fullPath": "presets/4.3/test/defaults.txt",
-      "hash": "5189fd5396e1379e75c876892ec0b6b7a6a30601c9f621bcf2dd653b9a0ddcef",
-      "title": "Default 4.3 LED settings",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "OTHER",
-      "status": "OFFICIAL",
-      "keywords": [
-        "defaults",
-        "reset",
-        "leds"
-      ],
-      "author": "BugsBunny",
-      "priority": 0
     },
     {
       "fullPath": "presets/4.3/tune/ctzsnooze_5in_4S_race.txt",
