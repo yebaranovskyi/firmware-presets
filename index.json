@@ -159,6 +159,7 @@
       "Betaflight",
       "BMSThomas",
       "Botgrinder",
+      "BugsBunny",
       "ctzsnooze",
       "Daniel Appel / Tehllama",
       "Directory",
@@ -2574,6 +2575,23 @@
       "author": "Ivan Efimov (Limon)",
       "force_options_review": true,
       "priority": 10000000000
+    },
+    {
+      "fullPath": "presets/4.3/test/defaults.txt",
+      "hash": "94d376ede1f006efb67463ee30b3b449495124c3fd71d2fe02545566357c3035",
+      "title": "Default 4.3 LED settings",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "LEDS",
+      "status": "OFFICIAL",
+      "keywords": [
+        "defaults",
+        "reset",
+        "leds"
+      ],
+      "author": "BugsBunny",
+      "priority": 0
     },
     {
       "fullPath": "presets/4.3/tune/ctzsnooze_5in_4S_race.txt",
